@@ -1,0 +1,16 @@
+# Core
+python>=3.9
+
+# Data manipulation
+pandas>=1.5
+numpy>=1.23
+
+# Machine Learning
+scikit-learn>=1.2
+matplotlib>=3.7
+
+# Bayesian Networks
+pgmpy>=0.1.23
+
+# (Opzionale - solo se vuoi usare Prolog con Python)
+# pyswip>=0.2.10
